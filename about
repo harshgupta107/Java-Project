@@ -42,6 +42,4 @@ JLabel text = new JLabel("<html>Windows Notepad 11.2305.18.0<br>© 2023 Microsof
 	public static void main(String[] args) {
 		new About();
 	}
-	
-
 }
